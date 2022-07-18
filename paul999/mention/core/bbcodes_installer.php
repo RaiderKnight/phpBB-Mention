@@ -111,6 +111,7 @@ class bbcodes_installer
 			'first_pass_replace'  => $data['first_pass_replace'],
 			'second_pass_match'   => $data['second_pass_match'],
 			'second_pass_replace' => $data['second_pass_replace'],
+            'bbcode_helpline'	=> '',
 		);
 
 		return $bbcode_data;
